@@ -1,11 +1,9 @@
-# TypeScript Basics
+# Performance Comparison
+String concatenation and substitution for 1000000 iterations compared for TypeScript and Java.
 
-## Performance Comparison
-String concatenation and substitution for 1000000 iterations compared for TypeScript and Java:
-
-### TypeScript
+## TypeScript
 ![TypeScript Performance](images/typescript-performance.png)
 
-### Java
+## Java
 ![Java Performance](images/java-performance.png)
 
